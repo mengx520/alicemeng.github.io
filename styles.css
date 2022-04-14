@@ -141,7 +141,7 @@ button {
 
 .btn {
   display: block;
-  padding: 0.8em 1.4em;
+  padding: 0.2em 0.8em;
   font-weight: 500;
   font-size: 0.9rem;
   text-transform: lowercase;
@@ -370,6 +370,7 @@ main {
 
   .section {
     margin-top: 4em;
+    
   }
 
   .nav__list {
